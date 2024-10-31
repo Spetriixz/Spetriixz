@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Spetriixz
+</h1>
 
-<!--
-**Spetriixz/Spetriixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spetriixz&label=Profile%20views&color=0e75b6&style=flat" alt="spetriixz" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=spetriixz" alt="spetriixz" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash,c,cs,cpp,python)](https://skillicons.dev)
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spetriixz&show_icons=true&locale=en&layout=compact" alt="spetriixz" />
+</p>
