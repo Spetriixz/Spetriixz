@@ -12,7 +12,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash,c,cs,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,solidjs,react,bash,c,cs,cpp,python)](https://skillicons.dev)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spetriixz&show_icons=true&locale=en&layout=compact" alt="spetriixz" />
